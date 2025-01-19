@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-<h2 style="text-align:left;">Linguagens que uso:</h2>
+
 <ul>
   <li>JavaScript</li>
   <li>HTML (HyperText Markup Language)</li>
