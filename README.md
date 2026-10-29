@@ -43,6 +43,6 @@
 <br/>
 <p align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfrances01&layout=compact&theme=tokyonight"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfrances01&layout=compact&theme=tokyonight"/>
 </p>
 
