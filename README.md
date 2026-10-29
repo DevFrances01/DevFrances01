@@ -12,7 +12,6 @@
 </div>
 <br>
 <br/>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12"/>
@@ -29,14 +28,13 @@
 
 <br/>
 
-<!-- Bloco Lado a Lado (Texto e GIF) -->
 <table align="center">
   <tr>
     <td align="center" width="50%">
       <p>Simples programador em um local irreal</p>
     </td>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/tjYS8yUChlzSmdKx9x/giphy.gif" alt="Anime 90s GIF" width="450" />
+      <img src="https://media.giphy.com/media/tjYS8yUChlzSmdKx9x/giphy.gif" alt="Anime 90s GIF" width="350" />
     </td>
   </tr>
 </table>
