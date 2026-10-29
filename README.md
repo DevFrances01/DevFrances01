@@ -11,6 +11,7 @@
   </a> 
 </div>
 <br>
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
@@ -45,4 +46,7 @@
 
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfrances01&layout=compact&theme=tokyonight"/>
 </p>
-
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=devfrances01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
