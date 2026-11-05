@@ -23,18 +23,17 @@
 ### Estatísticas
 
 <div align="center">
-  <!-- Linguagens -->
   <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devfrances01&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
 
-  <!-- Estatísticas gerais -->
   <img height="150" src="https://github-stats-extended.vercel.app/api?username=devfrances01&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas gerais" />
 
-  <!-- Dias de contribuição -->
   <img height="150" src="https://github-readme-streak-stats-eight.vercel.app/?user=devfrances01&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/tjYS8yUChlzSmdKx9x/giphy.gif" width="280" alt="Anime GIF" />
+
   <sub>Simples programador em um local irreal.</sub>
 </div>
