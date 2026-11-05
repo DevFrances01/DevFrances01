@@ -28,10 +28,15 @@
 
 ## Estatísticas
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfrances01&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-</div>
+## Estatísticas
 
+<div align="center">
+  <img
+    height="150"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devfrances01&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+</div>
 ---
 
 <div align="center">
